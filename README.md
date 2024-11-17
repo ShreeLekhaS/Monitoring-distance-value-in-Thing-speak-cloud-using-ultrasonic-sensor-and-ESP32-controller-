@@ -102,7 +102,8 @@ Prototype and build IoT systems without setting up servers or developing web sof
 ![Uploading WhatsApp Image 2024-11-06 at 09.53.31_33cec155.jpg…]()
 
 # OUTPUT:
-https://github.com/user-attachments/assets/8352b11f-d0bd-4cfc-b42b-5fcf11ac8fcd
+![Screenshot 2024-11-17 210213](https://github.com/user-attachments/assets/7d36b2d2-41ab-417f-acd9-5c05c4e11dce)
+
 # RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
 
