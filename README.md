@@ -1,6 +1,6 @@
 ## NAME: SHREE LEKHA.S
 ## REGISTER NO.: 212223110052
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# Exp-06 Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
