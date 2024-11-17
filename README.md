@@ -99,7 +99,10 @@ Prototype and build IoT systems without setting up servers or developing web sof
  
 # PROGRAM:
 # CIRCUIT DIAGRAM:
-![Uploading WhatsApp Image 2024-11-06 at 09.53.31_33cec155.jpg…]()
+
+![WhatsApp Image 2024-11-06 at 09 53 31_84b58c7e](https://github.com/user-attachments/assets/39257e96-6369-4512-ac94-b6710d6dffb0)
+
+
 
 # OUTPUT:
 ![Screenshot 2024-11-17 210213](https://github.com/user-attachments/assets/7d36b2d2-41ab-417f-acd9-5c05c4e11dce)
