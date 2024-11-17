@@ -7,11 +7,11 @@
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
 # Apparatus required:
-ESP32 Controller,<br>
-Ultrasonic Sensor,<br>
-Power supply,<br>
-Connecting wires,<br>
-Bread board<br>
+* ESP32 Controller,<br>
+* Ultrasonic Sensor,<br>
+* Power supply,<br>
+* Connecting wires,<br>
+* Bread board<br>
 # PROCEDURE:
 ## Arduino IDE
 Step1:Open the Arduino IDE<br>
